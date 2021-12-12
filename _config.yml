@@ -1,6 +1,6 @@
 # Setup
-title: Dark Poole
-url: https://getpoole.com
+title: nishgt | Bookmarks
+url: https://bookmarks.nishgt.art
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -32,17 +32,17 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: nishgt
+  url: https://connect.nishgt.art
+  email: omerayyildizwork@gmail.com
 
 # Custom vars
 version: 3.0.0
 
 # Navbar page list
 nav:
-  - title: Blog
+  - title: Arşiv
     url: /archive
 
-  - title: About
+  - title: Hakkımızda
     url: /about
